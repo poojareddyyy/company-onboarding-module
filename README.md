@@ -5,12 +5,11 @@ Built with production-ready backend practices and a polished frontend UI.
 
 
 ## 🏷️ Badges
-
-![React](https://img.shields.io/badge/React-18-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Express-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![JWT](https://img.shields.io/badge/Auth-JWT-orange)
-![Status](https://img.shields.io/badge/Status-Active-success)
+- ![React](https://img.shields.io/badge/React-18-blue)
+- ![Node.js](https://img.shields.io/badge/Node.js-Express-green)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+- ![JWT](https://img.shields.io/badge/Auth-JWT-orange)
+- ![Status](https://img.shields.io/badge/Status-Active-success)
 
 
 ## ✨ Highlights
@@ -66,7 +65,7 @@ npm run dev
 
 
 ## 👤 Author
-Pooja Reddy
+**Pooja Reddy**
 Full-Stack Developer
 🔗 GitHub: https://github.com/poojareddyyy
 
