@@ -54,6 +54,7 @@ npm run dev
 ```
 
 ## 📸 Screenshots
+<<<<<<< HEAD
 ### Register and Login
 ![Login and Register](https://github.com/poojareddyyy/company-onboarding-module/blob/b542d8823e61afd617e86dad1388338923c24b59/screenshots/Screenshot%202026-01-23%20221225.png)
 
@@ -68,3 +69,4 @@ npm run dev
 Pooja Reddy
 Full-Stack Developer
 🔗 GitHub: https://github.com/poojareddyyy
+
