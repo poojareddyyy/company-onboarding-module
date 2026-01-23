@@ -1,41 +1,52 @@
-# Company Onboarding Module
+# 🚀 Company Onboarding Module
 
-![Status](https://img.shields.io/badge/status-active-success)
-![Frontend](https://img.shields.io/badge/frontend-React-blue)
-![Backend](https://img.shields.io/badge/backend-Node.js-green)
-![Database](https://img.shields.io/badge/database-PostgreSQL-blue)
-![Auth](https://img.shields.io/badge/auth-JWT-orange)
+A **full-stack onboarding system** with secure authentication, **email OTP verification**, and a clean multi-step user experience.
+Built with production-ready backend practices and a polished frontend UI.
 
-A full-stack web application for secure user authentication and company profile onboarding.
 
----
+## 🏷️ Badges
 
-## 🚀 Features
-- User registration and login
-- JWT-based authentication
-- Secure password hashing
-- Company profile creation and update
-- Protected REST APIs
+![React](https://img.shields.io/badge/React-18-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Express-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![JWT](https://img.shields.io/badge/Auth-JWT-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
----
+
+## ✨ Highlights
+
+- 🔐 Secure user authentication with **JWT**
+- 📧 **Email OTP verification** using Nodemailer
+- 🚫 Login restricted until email is verified
+- 🏢 Company profile creation post-login
+- 🔒 Protected APIs with middleware
+- ⏳ Loaders + inline success/error messages
+- 🎯 Clean, responsive UI with consistent inputs
+
 
 ## 🛠 Tech Stack
-- React (Vite)
-- Node.js & Express
-- PostgreSQL
-- JWT & bcrypt
 
----
+**Frontend:** React (Vite), Axios, CSS  
+**Backend:** Node.js, Express.js, PostgreSQL  
+**Auth & Security:** JWT, bcrypt  
+**Email:** Nodemailer
+
+
+## 🔄 User Flow
+
+Register → Email OTP → Verify → Login → Company Profile
+
 
 ## ▶️ Run Locally
 
-## backend
+### Backend
 ```bash
 cd backend
 npm install
 npm run dev
 ```
-## Frontend
+
+### Frontend
 ```bash
 cd frontend
 npm install
@@ -43,15 +54,17 @@ npm run dev
 ```
 
 ## 📸 Screenshots
-### Login & Registration 
-![Login and Register](https://github.com/poojareddyyy/company-onboarding-module/blob/8d49b10b4ee7f9ef39747164cb0ec30ea41f3621/screenshots/Screenshot%202026-01-17%20154723.png)
+### Register and Login
+![Login and Register](https://github.com/poojareddyyy/company-onboarding-module/blob/b542d8823e61afd617e86dad1388338923c24b59/screenshots/Screenshot%202026-01-23%20221225.png)
 
-### Successful Login
-![Login Success](https://github.com/poojareddyyy/company-onboarding-module/blob/8d49b10b4ee7f9ef39747164cb0ec30ea41f3621/screenshots/Screenshot%202026-01-17%20155928.png)
+### OTP verification
+![Login Success](https://github.com/poojareddyyy/company-onboarding-module/blob/b542d8823e61afd617e86dad1388338923c24b59/screenshots/Screenshot%202026-01-23%20221316.png)
 
-### Company Profile Creation
-![Company Profile](https://github.com/poojareddyyy/company-onboarding-module/blob/8d49b10b4ee7f9ef39747164cb0ec30ea41f3621/screenshots/Screenshot%202026-01-17%20160119.png)
+### Company profile form
+![Company Profile](https://github.com/poojareddyyy/company-onboarding-module/blob/b542d8823e61afd617e86dad1388338923c24b59/screenshots/Screenshot%202026-01-23%20221422.png)
 
 
-## 👩‍💻 Author
+## 👤 Author
 Pooja Reddy
+Full-Stack Developer
+🔗 GitHub: https://github.com/poojareddyyy
