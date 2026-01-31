@@ -67,5 +67,5 @@ npm run dev
 ## 👤 Author
 **Pooja Reddy**
 Full-Stack Developer
-🔗 GitHub: https://github.com/poojareddyyy
+🔗 LinkedIn: [https://www.linkedin.com/in/pooja-reddy-a96126360](https://www.linkedin.com/in/pooja-reddy-a96126360/)
 
